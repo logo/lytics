@@ -10,7 +10,7 @@
 
 .logo[data-logo="Lytics"] > * {
   background-image: url(images/logo.svg);
-  margin: -.1em 0 -.1em 0;
+  margin: -.2em 1.5em -.2em 0;
 }
 
 .logo[data-logo="Lytics"][data-color="black"] > * {
